@@ -1,1 +1,2 @@
 <img src="https://blog.pedrosilva.tech/wp-content/uploads/2025/05/logo-classificados-taperoa.png" alt="Taperoá Classificas" width="400" height="300">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gKOYIt2ceiM?si=kqgyZsJTt1cwspNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
