@@ -1,1 +1,0 @@
-<script src="https://pedrosilva.tech/monitoramento_estatisticas/public/track.js"></script>
