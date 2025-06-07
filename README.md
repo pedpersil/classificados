@@ -78,3 +78,14 @@ Este projeto não está disponível no GitHub, por se tratar de uma aplicação 
 O **Classificados Taperoá** é mais do que um projeto técnico — é uma iniciativa que busca impactar positivamente a comunidade local ao promover a conexão entre vendedores e compradores de forma simples e eficiente.
 
 Se você gostou do projeto ou deseja desenvolver uma solução semelhante para sua cidade ou negócio, entre em contato! Estou disponível para criar soluções personalizadas com foco no seu público e nos seus objetivos.
+
+# Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+
+---
+
+# Autor
+
+Desenvolvido por [pedrosilva.tech](https://pedrosilva.tech)
+
