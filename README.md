@@ -61,12 +61,6 @@ O **Classificados Taperoá** é um projeto de minha autoria, desenvolvido 100% d
 
 ---
 
-## 🔒 Código-fonte
-
-Este projeto não está disponível no GitHub, por se tratar de uma aplicação funcional e restrita ao meu portfólio, mas pode ser acessado publicamente para navegação e testes.
-
----
-
 ## 🔗 Acesse agora
 
 [https://classificados.pedrosilva.tech/](https://classificados.pedrosilva.tech/)
