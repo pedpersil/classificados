@@ -15,7 +15,7 @@ class Mailer
             $mail->Host = 'smtp.hostinger.com';
             $mail->SMTPAuth = true;
             $mail->Username = 'classificados@pedrosilva.tech';
-            $mail->Password = '9M#l9a4ciF=U';
+            $mail->Password = 'yourPassword';
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
 
